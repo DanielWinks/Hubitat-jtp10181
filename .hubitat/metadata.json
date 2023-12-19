@@ -1,0 +1,82 @@
+{
+  "files": [
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/libraries/zwaveDriverLibrary.groovy",
+      "id": 11,
+      "codeType": "library",
+      "version": 3
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zac36-valve-actuator.groovy",
+      "codeType": "driver",
+      "id": 796,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zac38-range-extender.groovy",
+      "id": 790,
+      "codeType": "driver",
+      "version": 2
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zen-dimmer.groovy",
+      "codeType": "driver",
+      "id": 797,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zen-plugs-mcp.groovy",
+      "codeType": "driver",
+      "id": 798,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zen-plugs.groovy",
+      "codeType": "driver",
+      "id": 799,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zen-switch.groovy",
+      "codeType": "driver",
+      "id": 800,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zen16-multirelay.groovy",
+      "id": 791,
+      "codeType": "driver",
+      "version": 2
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zen17-companion-driver.groovy",
+      "id": 794,
+      "codeType": "driver",
+      "version": 2
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zse40-multisensor.groovy",
+      "id": 792,
+      "codeType": "driver",
+      "version": 2
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zse41-open-close.groovy",
+      "codeType": "driver",
+      "id": 801,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zse42-water-leak.groovy",
+      "codeType": "driver",
+      "id": 802,
+      "version": 1
+    },
+    {
+      "filepath": "/Users/danielwinks/Code/Hubitat-jtp10181/Drivers/zooz/zooz-zse44-temp-humidity.groovy",
+      "id": 789,
+      "codeType": "driver",
+      "version": 2
+    }
+  ]
+}
